@@ -1,30 +1,30 @@
 # Azat Azat
 ****
-### Student Web Developer
+Student Web Developer
 ****
-# Contacts
+## Contacts
     *Location: Russia
     *Phone:
     *Email:
 ****
-# About me
+## About me
 I study web development
 ****
-# Skills
+## Skills
     *Python Core
     *JavaScript (Basic)
     *HTML/CSS (Basic)
     *Git
 ****
-# Code Example
+## Code Example
 print("I'll be a programmer')
 ****
-# Experience
+## Experience
 Practice in programming more than a year
 ****
-# Education
+## Education
 University
 ****
-# Languages
+## Languages
 Russian - native
 English - pre-intermediate
