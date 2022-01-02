@@ -26,5 +26,5 @@ Practice in programming more than a year
 University
 ****
 ## Languages
-Russian - native
-English - pre-intermediate
+    *Russian - native
+    *English - pre-intermediate
