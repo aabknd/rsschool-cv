@@ -17,7 +17,7 @@ I study web development
 - Git
 ****
 **Code Example:**
-print("I'll be a programmer')
+print("I will be a programmer')
 ****
 **Experience:**
 Practice in programming more than a year
