@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-family: Arial, Futura;
+    background-color: rgb(192, 169, 169);
+    }
+
+.main {
+    font-family: Arial, Futura;
+    background-color: rgb(207, 195, 195);
+}    
+
+.footer {
+    font-family: Arial, Futura;
+    background-color: rgb(155, 31, 31);
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    font: 16px Verdana, sans-serif;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    position: relative;
+    padding: 0 12px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 50px;
+    color: rgb(59, 49, 49);
+}
